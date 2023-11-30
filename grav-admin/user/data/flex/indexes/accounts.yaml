@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1701292990
+count: 1
+index:
+  ahmetinci:
+    storage_key: ahmetinci
+    storage_timestamp: 1701292990
+    key: ahmetinci
+    email: prtkgmr@gmail.com

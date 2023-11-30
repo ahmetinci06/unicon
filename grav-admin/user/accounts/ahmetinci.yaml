@@ -1,0 +1,11 @@
+state: enabled
+email: prtkgmr@gmail.com
+fullname: 'Ahmet İnci'
+title: Creator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$zULSqeRCR22Ct8634hZMp.VD8cFa4D3Gurh2GIgkHa8HOqv9Y.aKS
