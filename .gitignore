@@ -26,6 +26,11 @@
 *.a
 *.lib
 
+# Resimler
+
+./images
+
+
 # Executables
 *.exe
 *.out
